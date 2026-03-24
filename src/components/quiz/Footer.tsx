@@ -30,7 +30,7 @@ const Footer = () => {
           ))}
         </div>
         <p className="text-xs text-muted-foreground/60">
-          © {new Date().getFullYear()} مسابقة مسيحية — نطلب صلواتكم من أجل أن يستخدمنا الرب لمجد
+          © {new Date().getFullYear()} مسابقة مسيحية — نطلب صلواتكم من أجل أن يستخدمنا الرب لمجده
         </p>
       </div>
     </footer>
